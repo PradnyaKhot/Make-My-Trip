@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="166.09" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Validate the flight booking page" name="User completes the booking" time="165.882">
+<system-out><![CDATA[
+Given User is on seat booking page..........................................passed
+When Confirms the seat number...............................................passed
+And Clicks on cotinue button................................................passed
+And Selects baggage free travelling.........................................passed
+And Proceeds to pay.........................................................passed
+Then User is taken to payment page..........................................passed
+]]></system-out>
+</testcase>
+</testsuite>

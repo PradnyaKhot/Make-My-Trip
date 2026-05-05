@@ -1,0 +1,68 @@
+# =====================
+# Java & Maven
+# =====================
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.tmp
+
+# Maven wrapper
+.mvn/
+mvnw
+mvnw.cmd
+
+# =====================
+# Test Output & Reports
+# =====================
+Report/
+test-output/
+Screenshots/
+allure-results/
+allure-report/
+extent-reports/
+*.html
+
+# =====================
+# Excel Test Data (optional - remove this line if you want data files tracked)
+# ExcelData/
+
+# =====================
+# IDE — Eclipse
+# =====================
+.settings/
+.classpath
+.project
+.factorypath
+bin/
+*.launch
+
+# =====================
+# IDE — IntelliJ IDEA
+# =====================
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# =====================
+# IDE — VS Code
+# =====================
+.vscode/
+
+# =====================
+# OS Files
+# =====================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =====================
+# Miscellaneous
+# =====================
+*.bak
+*.swp
+*.orig
